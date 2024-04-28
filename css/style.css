@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+	height: 50px;line-height: 50px
+}
+.top-bar a{
+    color: white
+}
+.top-bar a:hover{
+	color: #FFC113
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #056CB6;background-color: #FFC113
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+	background-color: #056CB6;padding-top: 0;padding-bottom: 0
+		
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item{
+	color: white
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li{
+	border-bottom: 1px solid white
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover{
+	background-color: #FFC113
+}
+.gach-chan{
+	border-bottom: 2px solid #FFC113
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color: #FFC113
+}
+.bottom-bar{
+	height: 50px;line-height: 50px;background-color: #FFC113
+}
+#service a{
+	text-decoration: none;color: #4B4B4B
+}
+#service a:hover{
+	color: #FFC113
+}
+#why{
+	min-height: 300px;background-image: url("../images/why.jpg");background-repeat: no-repeat;background-size: cover;background-position: center top
+}
+#client .hinh{
+	position: relative
+}
+#client .before{
+	position: absolute;left: 0;top: 0;padding: 10px;background-color: rgba(225,225,225,0.60)
+}
+#client .affer{
+	position: absolute;left: 50%;top: 0;padding: 10px;background-color: rgba(225,225,225,0.60)
+}
+#cn .noi-dung{
+	text-align: center;display: flex;flex-direction: column;justify-content: center;align-items: center;padding: 20px 80px
+}
+#cn .noi-dung img{
+	width: 80px;height: 80px
+}
+#tt a{
+	text-decoration: none;color: #4B4B4B;
+}
+#tt a:hover{
+	color: #FFC113
+}
+.text-do{
+	color: darkred
+}
+.caption{
+	position: absolute;width: 30%;top: 20%
+}
+.text-vang{
+	color: #FFC113
+}
+.form-control{
+	padding: 8px;margin: 8px 0;width: 100%
+}
+.btt{
+	padding: 10px 20px;background-color: #5E8DF9;color: white;border-radius: 10px;border: none;cursor: pointer
+}
+.vien-xam{
+	width: 100%;min-height: 300px;border: 1px solid #A4A4A4;border-radius: 10px;padding: 10px
+}
+
+
+
+
